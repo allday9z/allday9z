@@ -11,7 +11,7 @@ Custom hand-drawn SVG cards: assets/cards/*.svg (self-hosted, no third-party upt
 -->
 
 <div align="center">
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6DA,100:8A2BE2&height=200&section=header&text=Hey%2C%20I%20am%20Pongpisut&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20M2Dev%20%E2%80%94%20Full-Stack%20Dev%20%2F%20AI%20Tinkerer%20%2F%20DevOps%20%26%20System%20Engineer&descAlignY=58&descSize=18"/>
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6DA,100:8A2BE2&height=200&section=header&text=Hey%2C%20I%20am%20Pongpisut&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20M2Dev%20%E2%80%94%20Full-Stack%20Dev%20%2F%20AI%20Tinkerer%20%2F%20DevOps%20and%20System%20Engineer&descAlignY=58&descSize=18"/>
 </div>
 
 <div align="center">
