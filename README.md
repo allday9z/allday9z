@@ -1,76 +1,134 @@
+<!--
+References used in this README
+https://github.com/kyechan99/capsule-render
+https://github.com/DenverCoder1/readme-typing-svg
+https://skillicons.dev
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/Ashutosh00710/github-readme-activity-graph
+https://github.com/lowlighter/metrics
+Custom hand-drawn SVG cards: assets/cards/*.svg (self-hosted, no third-party uptime risk)
+-->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6DA,100:8A2BE2&height=200&section=header&text=Hey%2C%20I'm%20Pongpisut!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20M2Dev%20%E2%80%94%20Full-Stack%20Dev%20%2F%20AI%20Tinkerer%20%2F%20DevOps%20%26%20System%20Engineer&descAlignY=58&descSize=18"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2EA6DA&center=true&vCenter=true&width=700&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%2F+Hello+there+%F0%9F%91%8B;I+build+things%2C+then+I+babysit+them+in+production;Coffee-powered.+Rollback-ready.+Mildly+chaotic.;Ask+me+about+Laravel%2C+Docker%2C+or+why+it%27s+always+DNS." alt="Typing SVG" />
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="wave"/>&nbsp; A little about me
+
+I'm **Pongpisut M.**, a full-stack developer who accidentally became a systems engineer because someone had to keep the servers alive. I write the feature, ship the feature, then stay up making sure the feature doesn't set anything on fire.
+
+- 🧑‍💻 Full-stack dev by day, infrastructure whisperer by necessity
+- 🤖 Currently obsessed with AI-assisted engineering — teaching agents to do the boring parts responsibly
+- 🛠️ Comfortable anywhere between a React component and a Proxmox host
+- 🇹🇭🇺🇸 Bilingual brain — code comments in English, panic in Thai
+- 🎯 Personal rule: nothing gets deleted, everything ships with a rollback plan
+
+</td>
+<td width="30%" align="center" valign="top">
+  <img src="./assets/cards/terminal-whoami.svg" width="100%" alt="terminal card"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA6DA,100:8A2BE2&height=3&section=header"/>
+</div>
+
+### 📬 Reach me
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA6DA&center=true&vCenter=true&width=650&lines=Pongpisut+M.;Full-Stack+Developer+%7C+AI+Expert;DevOps+%26+System+Engineer;Building+resilient+systems%2C+one+deploy+at+a+time." alt="Typing SVG" />
-
-[![Email (Work)](https://img.shields.io/badge/Work-pongpisut.m%40uficon.com-2EA6DA?style=flat-square&logo=maildotru&logoColor=white)](mailto:pongpisut.m@uficon.com)
-[![Email (Direct)](https://img.shields.io/badge/Direct-dev.pongpisut%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.pongpisut@gmail.com)
+[![Work Email](https://img.shields.io/badge/Work-pongpisut.m%40uficon.com-2EA6DA?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:pongpisut.m@uficon.com)
+[![Direct Email](https://img.shields.io/badge/Direct-dev.pongpisut%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.pongpisut@gmail.com)
 
 </div>
 
----
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA6DA,100:8A2BE2&height=3&section=header"/>
+</div>
 
-### 👋 About Me
+### 🛠️ What I build with
 
-Full-stack developer and systems engineer who lives at the intersection of **application code, infrastructure, and AI tooling**. I build product features end-to-end, then make sure they survive contact with production — CI/CD, containers, monitoring, and rollback plans included.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,mysql,postgres,redis,docker,linux,nginx,git,githubactions,bash,figma,vscode&theme=dark" alt="skill icons"/>
+</div>
 
-- 🔭 Currently building & hardening e-commerce/CMS platforms (Laravel + Filament, WooCommerce, Next.js)
-- ⚙️ Deep in DevOps: Docker, Proxmox, Coolify, CI/CD pipelines, Tailscale mesh networking
-- 🤖 Exploring applied AI: LLM-assisted engineering workflows, automation agents, and AI-driven ops tooling
-- 🌱 Always tightening the loop between "it works" and "it's actually safe in production"
-- 💬 Ask me about: Laravel/Filament architecture, WooCommerce internals, Docker/Proxmox infra, or CI/CD pipeline design
-- ⚡ Fun fact: I test in production... carefully, with a rollback plan ready before I hit enter
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Frameworks & Platforms**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Infrastructure & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<p align="center"><sub>+ the self-hosted stack I run for fun at home 🏡</sub></p>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allday9z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=allday9z&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logo=laravel&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
 </div>
 
----
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA6DA,100:8A2BE2&height=3&section=header"/>
+</div>
+
+<details>
+<summary><b>🎯 Click here if you're curious what I'm actually up to right now</b></summary>
+<br>
+
+I spend most days somewhere between shipping product features and hardening the infrastructure they run on — CI/CD pipelines, container orchestration, and enough monitoring that nothing surprises me at 3am (in theory).
+
+Lately I've been leaning hard into **AI-assisted engineering** — using LLM agents as force multipliers for repetitive ops work, code review, and incident triage, while keeping a very firm hand on anything destructive. The rule is simple: agents plan, humans approve, nothing important gets deleted without a backup first.
+
+If you want to talk shop: Laravel/Filament architecture, WooCommerce internals, Docker/Proxmox homelab setups, or why your CI pipeline is lying to you about being green — I'm in.
+
+</details>
 
 <div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA6DA,100:8A2BE2&height=3&section=header"/>
+</div>
 
-*Nothing is deleted, everything ships with a rollback plan.*
+### 📊 The receipts
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allday9z&bg_color=0d1117&color=2EA6DA&line=8A2BE2&point=ffffff&area=true&hide_border=true&custom_title=Pongpisut's%20Contribution%20Graph" width="100%" alt="activity graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=allday9z&theme=dark&hide_border=true&background=0D1117&ring=2EA6DA&fire=8A2BE2&currStreakLabel=8A2BE2" width="65%" alt="streak stats"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+</div>
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA6DA,100:8A2BE2&height=3&section=header"/>
+</div>
+
+<div align="center">
+  <img src="./assets/cards/sticky-fact.svg" width="340" alt="fun fact sticky note"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999&repeat=false&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+all+the+way+down+%E2%80%94+you're+a+real+one+%F0%9F%99%8C" alt="goodbye" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:2EA6DA&height=120&section=footer"/>
 </div>

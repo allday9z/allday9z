@@ -1,0 +1,37 @@
+<svg width="640" height="300" viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Courier New', monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect x="0" y="0" width="640" height="300" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="640" height="300" fill="url(#bg)"/>
+
+    <rect width="640" height="34" fill="#010409"/>
+    <circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+    <circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="17" r="6" fill="#27c93f"/>
+    <text x="320" y="22" fill="#8b949e" font-size="13" text-anchor="middle">pongpisut@allday9z: ~</text>
+
+    <text x="24" y="66" font-size="15" fill="#58a6ff">$ whoami</text>
+    <text x="24" y="90" font-size="14" fill="#c9d1d9">&gt; full-stack dev who also owns the pager for prod 🔔</text>
+
+    <text x="24" y="126" font-size="15" fill="#58a6ff">$ cat ~/philosophy.txt</text>
+    <text x="24" y="150" font-size="14" fill="#c9d1d9">&gt; ship it — but the rollback plan ships first 🛟</text>
+
+    <text x="24" y="186" font-size="15" fill="#58a6ff">$ ps -aux | grep "bugs"</text>
+    <text x="24" y="210" font-size="14" fill="#f0883e">&gt; 0 known bugs (that I'll admit to on camera 👀)</text>
+
+    <text x="24" y="246" font-size="15" fill="#58a6ff">$ echo $STATUS</text>
+    <text x="24" y="270" font-size="14" fill="#3fb950">&gt; caffeinated, curious, currently arguing with Docker 🐳</text>
+
+    <rect x="24" y="278" width="10" height="16" fill="#c9d1d9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
