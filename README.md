@@ -59,12 +59,11 @@ Full-stack developer and systems engineer who lives at the intersection of **app
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=allday9z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allday9z&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=allday9z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=allday9z&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
